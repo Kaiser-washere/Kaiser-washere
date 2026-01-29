@@ -29,5 +29,5 @@
 <p><strong>Contact</strong></p>
 <ul>
   <li>Discord: <code>kaiserwhashere</code></li>
-  <li>GitHub: <a href="#">PurpleRose</a></li>
+  <li>GitHub: <a href="https://github.com/Kaiser-washere">Kaiser</a></li>
 </ul>
