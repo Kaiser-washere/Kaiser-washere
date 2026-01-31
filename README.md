@@ -12,7 +12,7 @@
 ---
 
 ## Skills
-- Linux: optimization, troubleshooting, scripting  
+- Linux: optimization, scripting  
 - Networking: TCP/UDP, DNS, routing, dependency mapping  
 - Cybersecurity: Red/Blue Team analysis, CTF competitions  
 - Tool Development  
