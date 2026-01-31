@@ -3,7 +3,6 @@
 <p><strong>🌹About</strong></p>
 <ul>
   <li>Founder & Lead of PurpleRose</li>
-  <li>3+ years Linux experience</li>
   <li>Proficient in C# .NET, Java, JavaScript, CSS, HTML</li>
   <li>Knowledge of Arduino, Python, MicroPython</li>
   <li>Experienced in Bash & Shell scripting</li>
