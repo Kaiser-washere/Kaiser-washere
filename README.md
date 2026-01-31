@@ -14,7 +14,7 @@
   <li>Linux: optimization, troubleshooting, scripting</li>
   <li>Networking: TCP/UDP, DNS, routing, dependency mapping</li>
   <li>Cybersecurity: Red/Blue Team analysis, CTF competitions</li>
-  <li>Tool Development: Helix ecosystem</li>
+  <li>Tool Development</li>
 </ul>
 
 <p><strong>Current Goals</strong></p>
