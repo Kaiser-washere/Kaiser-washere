@@ -30,3 +30,5 @@
   <li>Discord: <code>kaiserwhashere</code></li>
   <li>GitHub: <a href="https://github.com/Kaiser-washere">Kaiser</a></li>
 </ul>
+
+<pre>Let's be clear: my role is leadership, vision, and community.</pre>
