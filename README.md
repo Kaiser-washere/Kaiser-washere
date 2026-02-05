@@ -1,4 +1,4 @@
-<h1 align="center">Kaiser</h1>
+
 
 <h2>About Me</h2>
 <ul>
