@@ -23,14 +23,6 @@ PurpleRose is the cybersecurity project I lead.
 It represents my vision for combining technical expertise, tool development, and community building under one name.
 </p>
 
-<h2>Current Goals</h2>
-<ul>
-  <li>Expand PurpleRose into a global cybersecurity brand</li>
-  <li>Build PurpleRose RoSae CTF team for international tournaments</li>
-  <li>Launch PurpleRose Forge for tool development</li>
-  <li>Develop a strong, active core community</li>
-</ul>
-
 <h2>Contact</h2>
 <ul>
   <li>Discord: <code>kaiserwhashere</code></li>
